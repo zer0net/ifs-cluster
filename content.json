@@ -1,0 +1,48 @@
+{
+ "address": "1PaLZGHB75bDnxkraq3gkZx7bzGMRhatuH",
+ "address_index": 32799922,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG",
+ "description": "Clone file hub template to create your own IFS file hub type",
+ "files": {
+  "data/users/1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp/channels.json": {
+   "sha512": "8d87d0e25087bd9e3a108921f6bdad1d03694739859dc1681fd9a8f0fb61ddba",
+   "size": 344
+  },
+  "index.html": {
+   "sha512": "08ef3c8df4577770737932155cd1cdf56750435a8128f4f8fdd7e03ee27a93ed",
+   "size": 956
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
+   "size": 2409
+  }
+ },
+ "ignore": "",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "IFS",
+ "modified": 1487896974,
+ "optional": "(uploads)",
+ "postmessage_nonce_security": true,
+ "sign": [
+  19960958768626564392437764433014837678651465756599541378862666516250741348972,
+  7561263443737071516041698054014462390990458035241705415095152605479325647235
+ ],
+ "signers_sign": "G79ClQLJr8sgnoZMWJymvr7iq/Vh5Sgxryay4jkEjTzN9SRvtZb3OH5STbjPmwpCuchoJdgI9QcfUr89bpG61qs=",
+ "signs": {
+  "1PaLZGHB75bDnxkraq3gkZx7bzGMRhatuH": "G+UmONjT+T/dDEESZZQ+jlkzBOgVIyBiW8NjDRFCx8J3wWbmqqieS24N3VVgPYe5gxRS2KnJ+U78FvaDWE+HRdk="
+ },
+ "signs_required": 1,
+ "title": "my IFS Filehub",
+ "translate": [
+  "js/all.js"
+ ],
+ "zeronet_version": "0.5.2"
+}

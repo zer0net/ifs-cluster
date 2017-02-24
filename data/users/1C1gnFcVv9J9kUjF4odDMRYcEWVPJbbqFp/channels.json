@@ -1,0 +1,13 @@
+{
+	"next_channel_id": 1,
+	"channels": [
+		{
+			"channel_name": "Original Channel Master Cluster",
+			"user_id": "1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp",
+			"cluster_id": "1PaLZGHB75bDnxkraq3gkZx7bzGMRhatuH",
+			"channel_id": 1,
+			"channel_address": "1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp_1"
+		}
+	],
+	"user_id": "1C1gnFcVv9J9kUjF4odDMRYcEWVPJbbqFp"
+}
